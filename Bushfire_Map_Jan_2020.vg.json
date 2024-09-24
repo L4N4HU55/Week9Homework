@@ -9,12 +9,12 @@
   "data": [
     {
       "name": "source_0",
-      "url": "https://raw.githubusercontent.com/L4N4HU55/3179/main/AUS_2016_AUST.topojson",
+      "url": "https://raw.githubusercontent.com/L4N4HU55/Week9Homework/main/AUS_2016_AUST.topojson",
       "format": {"type": "topojson", "feature": "AUS_2016_AUST"}
     },
     {
       "name": "source_1",
-      "url": "https://raw.githubusercontent.com/L4N4HU55/3179/refs/heads/main/Jan_2020_Aus_Fire.csv",
+      "url": "https://raw.githubusercontent.com/L4N4HU55/Week9Homework/refs/heads/main/Jan_2020_Aus_Fire.csv",
       "format": {"type": "csv", "delimiter": ","},
       "transform": [
         {
